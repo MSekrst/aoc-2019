@@ -1,0 +1,15 @@
+{
+  "name": "aoc-2019",
+  "version": "1.0.0",
+  "description": "Advent od code 2019. solutions",
+  "main": "helpers.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": ["aoc"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
